@@ -16,3 +16,5 @@ operation_to_message: "#{operation_to_message(operator)} the two numbers..."
 result: "The result is #{result}!"
 another_calc: "Do you want to perform another calculation? (Y to calculate again)"
 goodbye: "Thank you for using the Calculator. Goodbye!"
+
+
